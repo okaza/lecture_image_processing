@@ -3,4 +3,4 @@
 標準画像「pokemon03」を現画像とする。
 この画像は、縦545ピクセル、横554ピクセルによるディジタルカラー画像である。
 
-!(pokemon03.png)
+![](/path/to/image.png)(pokemon03.png)
