@@ -12,5 +12,5 @@ IMG = imresize(ORG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
 1/2サンプリングの結果を図２に示す．
-
+![代替テキスト](pokemon01-2bun.jpg)
 
